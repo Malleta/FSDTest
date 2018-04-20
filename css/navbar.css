@@ -22,12 +22,24 @@
     border-bottom: 3px solid #528b86;
     margin-top: 0.3rem; 
 }
+
+.btn-home:active{
+    border-top: 2px solid #528b86;
+    border-bottom: transparent;
+    background-color: #599491;
+}
 /*  */
 .btn-dropdown{
     background-color: #e8645a;
     color: #fff;
     border-bottom: 3px solid #e2534b;
     margin-top: 0.3rem;
+}
+
+.btn-dropdown:active{
+    border-top: 2px solid #a7463f;
+    border-bottom: transparent;
+    background-color: #c4524a;
 }
 
 .dropdown-menu{

@@ -10,7 +10,7 @@
 /*  */
 .carousel-control-prev-icon {
     background-color: #e2534b;
-    padding: 20px 25px 20px 25px;
+    padding: 25px 20px 25px 20px;
     border-radius: 0 10px 10px 0;
     background-image: url("./img/left-arrow.png");
     background-size: auto;
@@ -18,7 +18,7 @@
 
 .carousel-control-next-icon {
     background-color: #e2534b;
-    padding: 20px 25px 20px 25px;
+    padding: 25px 20px 25px 20px;
     border-radius: 10px 0 0 10px;
     background-image: url("./img/right-arrow.png");
     background-size: auto;
