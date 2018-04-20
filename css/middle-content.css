@@ -74,6 +74,12 @@
     margin-top: .9rem;
 }
 
+.tab-btn button:active{
+    border-top: 2px solid #e2534b;
+    border-bottom: transparent;
+    background-color: #bd443e;
+}
+
 .tab:hover .tab-icon i{
     color: #e2534b;
 }
@@ -103,6 +109,10 @@
 
     .carousel{
         padding-top: 3.5rem;
+    }
+
+    .dropdown-menu:after {
+        border-bottom-color: transparent;
     }
 
 }
