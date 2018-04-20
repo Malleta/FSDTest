@@ -1,0 +1,82 @@
+.carousel{
+    padding-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+/*  */
+.carousel-control-prev-icon {
+    background-color: #e2534b;
+    padding: 20px 25px 20px 25px;
+    border-radius: 0 10px 10px 0;
+    background-image: url("./img/left-arrow.png");
+    background-size: auto;
+}
+
+.carousel-control-next-icon {
+    background-color: #e2534b;
+    padding: 20px 25px 20px 25px;
+    border-radius: 10px 0 0 10px;
+    background-image: url("./img/right-arrow.png");
+    background-size: auto;
+}
+
+.carousel-control-next, .carousel-control-prev{
+    opacity: .8;
+}
+
+.carousel-control-prev{
+    justify-content: flex-start;
+}
+
+.carousel-control-next{
+    justify-content: flex-end;
+}
+
+/*  */
+.carousel-indicators .active{
+    background-color: #e2534b;
+}
+
+.carousel-indicators li{
+    background-color: #b0b8b9;
+}
+
+.carousel-indicators{
+    bottom: -2.5rem;
+}
+/*  */
+
+.tab{
+    padding-top: 2.5rem;
+    background-color: #f8f8f8;
+    height: 19rem;
+    border-bottom: 5px solid #e5e6e6;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.tab-icon i{
+    color: #62bdbd;
+    font-size: 4.5rem;
+    padding-bottom: .6rem;
+}
+
+.tab-title h3{
+    padding-bottom: .8rem;
+}
+
+.tab-btn button{
+    background-color: #76c7c0;
+    color: #fff;
+    border-bottom: 3px solid #62b9b0;
+    width: 9rem;
+    margin-top: 1.2rem;
+}
+
+/* .tab-icon i{
+    color: #e2534b;
+} */
+
+.tab:hover{
+    background-color: #fff;
+}
