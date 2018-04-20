@@ -46,6 +46,7 @@
     background-color: #e8645a;
     padding: .5rem .5rem 0 .5rem;
     border-radius: 10px;
+    margin-top: .7rem;
 }
 
 .dropdown-item{
@@ -66,3 +67,17 @@
 }
 
 /*  */
+.dropdown-menu:after, .dropdown-menu:before {
+	bottom: 100%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.dropdown-menu:after {
+	border-bottom-color: #e5655d;
+	border-width: 5px;
+}
