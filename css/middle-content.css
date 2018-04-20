@@ -1,6 +1,10 @@
 .carousel{
-    padding-top: 4rem;
+    padding-top: 2.5rem;
     margin-bottom: 4rem;
+}
+
+.carousel-item img {
+    max-height: 32rem;
 }
 
 /*  */
@@ -86,4 +90,19 @@
 
 .tab-details{
     font-family: BLOKK;
+}
+
+@media only screen and (max-width: 600px) {
+    .tab {
+        margin: 0 1rem 2rem 1rem;
+    }
+
+    .tab-btn button{
+        margin-top: 2.2rem;
+    }
+
+    .carousel{
+        padding-top: 3.5rem;
+    }
+
 }
