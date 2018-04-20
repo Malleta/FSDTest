@@ -12,6 +12,7 @@ function fds_test(){
     wp_enqueue_style('bootstrap_style', get_template_directory_uri(). '/css/bootstrap.min.css');
     wp_enqueue_style('navbar', get_template_directory_uri(). '/css/navbar.css');
     wp_enqueue_style('middle-content', get_template_directory_uri(). '/css/middle-content.css');
+    wp_enqueue_style('blokk', get_template_directory_uri(). '/css/blokk/blokkfont.css');
 
 }
 

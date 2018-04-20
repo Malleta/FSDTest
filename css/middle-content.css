@@ -61,22 +61,29 @@
     padding-bottom: .6rem;
 }
 
-.tab-title h3{
-    padding-bottom: .8rem;
-}
 
 .tab-btn button{
     background-color: #76c7c0;
     color: #fff;
     border-bottom: 3px solid #62b9b0;
     width: 9rem;
-    margin-top: 1.2rem;
+    margin-top: .9rem;
 }
 
-/* .tab-icon i{
+.tab:hover .tab-icon i{
     color: #e2534b;
-} */
+}
+
+.tab:hover .tab-btn button{
+    background-color: #e8645a;
+    border-bottom: 3px solid #e2534b;
+}
 
 .tab:hover{
     background-color: #fff;
+    cursor: pointer;
+}
+
+.tab-details{
+    font-family: BLOKK;
 }

@@ -31,13 +31,28 @@
      <div class="row justify-content-center">
          <div class="col-md tab mr-4">
              <div class="tab-icon"><i class="far fa-thumbs-up"></i></div>
-             <div class="tab-title"><h3>Title</h3></div>
-             <div class="tab-details"><p>Juberish Juberish JuberishJuberishJuberishJuberish Juberish</p></div>
+             <div class="tab-title"><h5>SUSPENDISSE</h5></div>
+             <div class="tab-details"><p>gibberish gibb erish gibb erishgibb erishgibberish gibbe rish gib beri sh</p></div>
              <div class="tab-btn"><button class="btn">Button</button></div>
          </div>
-         <div class="col-md tab mr-4"></div>
-         <div class="col-md tab mr-4"></div>
-         <div class="col-md tab mr-4"></div>
+         <div class="col-md tab mr-4">
+             <div class="tab-icon"><i class="fas fa-key"></i></div>
+             <div class="tab-title"><h5>MAECENAS</h5></div>
+             <div class="tab-details"><p>gibberishgibb erish gi bberishgibb eris hg ibberish giib beri sh</p></div>
+             <div class="tab-btn"><button class="btn">Button</button></div>
+         </div>
+         <div class="col-md tab mr-4">
+             <div class="tab-icon"><i class="fas fa-flag"></i></div>
+             <div class="tab-title"><h5>ALIQUAM</h5></div>
+             <div class="tab-details"><p>gibberish gibberish gibb erishgibb erishgibberish gibbe riberish</p></div>
+             <div class="tab-btn"><button class="btn">Button</button></div>
+         </div>
+         <div class="col-md tab mr-4">
+             <div class="tab-icon"><i class="fas fa-flask"></i></div>
+             <div class="tab-title"><h5>HABITASSE</h5></div>
+             <div class="tab-details"><p>gibberish gibb erishgibb erishgibb eris hgibberish gibbeis</p></div>
+             <div class="tab-btn"><button class="btn">Button</button></div>
+         </div>
      </div>
  </div>
 
